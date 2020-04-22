@@ -1,0 +1,6 @@
+2020-04-22 13:04:593 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-22 13:04:151 INFO  HomePage :28 - click on your acct linkProxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Your account')]'
+2020-04-22 13:04:680 INFO  YourAccountPage :25 - click on create acct linkProxy element for: DefaultElementLocator 'By.xpath: //input[@id='btn']'
+2020-04-22 13:04:488 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-22 13:04:138 INFO  HomePage :28 - click on your acct linkProxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Your account')]'
+2020-04-22 13:04:673 INFO  YourAccountPage :25 - click on create acct linkProxy element for: DefaultElementLocator 'By.xpath: //input[@id='btn']'
